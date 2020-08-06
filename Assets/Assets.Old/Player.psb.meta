@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: e2d89eeda3ab98544a6a7d2ac3a69288
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Player_GO/Player_GO
+    100002: Player_GO/Player_GO/Background
+    100004: Player_GO/Player_GO/Copy of LowerLeg.png
+    100006: Player_GO/Player_GO/Copy of PLEFTLowerArm.png
+    100008: Player_GO/Player_GO/Copy of PLEFTUpperArm.png
+    100010: Player_GO/Player_GO/Copy of upperLeg.png
+    100012: Player_GO/Player_GO/Layer 1
+    100014: Player_GO/Player_GO/Layer 2
+    100016: Player_GO/Player_GO/LowerLeg.png
+    100018: Player_GO/Player_GO/Neck.png
+    100020: Player_GO/Player_GO/PBODY.png
+    100022: Player_GO/Player_GO/PHead.png
+    100024: Player_GO/Player_GO/PLEFTLowerArm.png
+    100026: Player_GO/Player_GO/PLEFTUpperArm.png
+    100028: Player_GO/Player_GO/upperLeg.png
+    400000: Player_GO/Player_GO/Transform
+    400002: Player_GO/Player_GO/Background/Transform
+    400004: Player_GO/Player_GO/Copy of LowerLeg.png/Transform
+    400006: Player_GO/Player_GO/Copy of PLEFTLowerArm.png/Transform
+    400008: Player_GO/Player_GO/Copy of PLEFTUpperArm.png/Transform
+    400010: Player_GO/Player_GO/Copy of upperLeg.png/Transform
+    400012: Player_GO/Player_GO/Layer 1/Transform
+    400014: Player_GO/Player_GO/Layer 2/Transform
+    400016: Player_GO/Player_GO/LowerLeg.png/Transform
+    400018: Player_GO/Player_GO/Neck.png/Transform
+    400020: Player_GO/Player_GO/PBODY.png/Transform
+    400022: Player_GO/Player_GO/PHead.png/Transform
+    400024: Player_GO/Player_GO/PLEFTLowerArm.png/Transform
+    400026: Player_GO/Player_GO/PLEFTUpperArm.png/Transform
+    400028: Player_GO/Player_GO/upperLeg.png/Transform
+    2800000: Player
+    21200000: Player_GO/Player_GO/Background/SpriteRenderer
+    21200002: Player_GO/Player_GO/Copy of LowerLeg.png/SpriteRenderer
+    21200004: Player_GO/Player_GO/Copy of PLEFTLowerArm.png/SpriteRenderer
+    21200006: Player_GO/Player_GO/Copy of PLEFTUpperArm.png/SpriteRenderer
+    21200008: Player_GO/Player_GO/Copy of upperLeg.png/SpriteRenderer
+    21200010: Player_GO/Player_GO/Layer 1/SpriteRenderer
+    21200012: Player_GO/Player_GO/Layer 2/SpriteRenderer
+    21200014: Player_GO/Player_GO/LowerLeg.png/SpriteRenderer
+    21200016: Player_GO/Player_GO/Neck.png/SpriteRenderer
+    21200018: Player_GO/Player_GO/PBODY.png/SpriteRenderer
+    21200020: Player_GO/Player_GO/PHead.png/SpriteRenderer
+    21200022: Player_GO/Player_GO/PLEFTLowerArm.png/SpriteRenderer
+    21200024: Player_GO/Player_GO/PLEFTUpperArm.png/SpriteRenderer
+    21200026: Player_GO/Player_GO/upperLeg.png/SpriteRenderer
+    21300000: 2069b918beb165d4fbb0e5bfdc6d100d
+    21300002: 6c38ba8f06060a24d9228e0b66e502c4
+    21300004: 6d8ac25a8db7f254786182e27095e06d
+    21300006: 5db51451ebcd7f949a9a664083b9e7c7
+    21300008: 9243e2d8d66cff041aca1d947f44e848
+    21300010: ae6c1ad57b36b15439965dc93bdfbecb
+    21300012: f766beedbf1fdcd46bcbd85a90366da4
+    21300014: dff9742ff530a3242b7deae66c40195b
+    21300016: 655b4bd3eb2a83a4fb513ab88288f3b6
+    21300018: 87527be42f119524e9a8907dc1f9faac
+    21300020: 8e626020f9ac6dd409809f127d883f32
+    21300022: 5190d2381a59d184babbd24dcb09fdf0
+    21300024: e506b3f04f003224abec502e7b03243b
+    21300026: fc1b188d58a7a3149a366ce80a405448
+    100100000: Player_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Copy of LowerLeg.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 198
+      width: 44
+      height: 46
+    spriteID: 2069b918beb165d4fbb0e5bfdc6d100d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 684, y: -470}
+  - name: LowerLeg.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 252
+      width: 44
+      height: 46
+    spriteID: 6c38ba8f06060a24d9228e0b66e502c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 708, y: -416}
+  - name: PHead.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 4
+      width: 67
+      height: 76
+    spriteID: 6d8ac25a8db7f254786182e27095e06d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 717, y: -836}
+  - name: PBODY.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 88
+      width: 49
+      height: 102
+    spriteID: 5db51451ebcd7f949a9a664083b9e7c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 710, y: -648}
+  - name: Copy of upperLeg.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 496
+      width: 13
+      height: 35
+    spriteID: 9243e2d8d66cff041aca1d947f44e848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 681, y: -216}
+  - name: upperLeg.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 539
+      width: 13
+      height: 35
+    spriteID: ae6c1ad57b36b15439965dc93bdfbecb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 705, y: -173}
+  - name: Neck.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1682
+      y: 4
+      width: 26
+      height: 33
+    spriteID: f766beedbf1fdcd46bcbd85a90366da4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 774, y: -824}
+  - name: Copy of PLEFTUpperArm.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1659
+      y: 198
+      width: 15
+      height: 44
+    spriteID: dff9742ff530a3242b7deae66c40195b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 719, y: -590}
+  - name: PLEFTUpperArm.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 444
+      width: 15
+      height: 44
+    spriteID: 655b4bd3eb2a83a4fb513ab88288f3b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 729, y: -344}
+  - name: Copy of PLEFTLowerArm.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 306
+      width: 15
+      height: 61
+    spriteID: 87527be42f119524e9a8907dc1f9faac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 667, y: -422}
+  - name: PLEFTLowerArm.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1607
+      y: 375
+      width: 15
+      height: 61
+    spriteID: 8e626020f9ac6dd409809f127d883f32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 728, y: -354}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1664
+      y: 88
+      width: 0
+      height: 0
+    spriteID: 5190d2381a59d184babbd24dcb09fdf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 69, y: -1112}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1664
+      y: 96
+      width: 0
+      height: 0
+    spriteID: e506b3f04f003224abec502e7b03243b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 69, y: -1104}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1595
+      height: 1200
+    spriteID: fc1b188d58a7a3149a366ce80a405448
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1595, y: 1200}
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Copy of LowerLeg.png
+    spriteName: Copy of LowerLeg.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2069b918beb165d4fbb0e5bfdc6d100d
+    layerID: 1827633774
+    mosaicPosition: {x: 1607, y: 198}
+  - name: LowerLeg.png
+    spriteName: LowerLeg.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6c38ba8f06060a24d9228e0b66e502c4
+    layerID: -126696664
+    mosaicPosition: {x: 1607, y: 252}
+  - name: PHead.png
+    spriteName: PHead.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6d8ac25a8db7f254786182e27095e06d
+    layerID: -1544392801
+    mosaicPosition: {x: 1607, y: 4}
+  - name: PBODY.png
+    spriteName: PBODY.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5db51451ebcd7f949a9a664083b9e7c7
+    layerID: 1939202435
+    mosaicPosition: {x: 1607, y: 88}
+  - name: Copy of upperLeg.png
+    spriteName: Copy of upperLeg.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9243e2d8d66cff041aca1d947f44e848
+    layerID: -2091349813
+    mosaicPosition: {x: 1607, y: 496}
+  - name: upperLeg.png
+    spriteName: upperLeg.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ae6c1ad57b36b15439965dc93bdfbecb
+    layerID: -575508781
+    mosaicPosition: {x: 1607, y: 539}
+  - name: Neck.png
+    spriteName: Neck.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f766beedbf1fdcd46bcbd85a90366da4
+    layerID: -1203777324
+    mosaicPosition: {x: 1682, y: 4}
+  - name: Copy of PLEFTUpperArm.png
+    spriteName: Copy of PLEFTUpperArm.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dff9742ff530a3242b7deae66c40195b
+    layerID: 692024702
+    mosaicPosition: {x: 1659, y: 198}
+  - name: PLEFTUpperArm.png
+    spriteName: PLEFTUpperArm.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 655b4bd3eb2a83a4fb513ab88288f3b6
+    layerID: 1511270652
+    mosaicPosition: {x: 1607, y: 444}
+  - name: Copy of PLEFTLowerArm.png
+    spriteName: Copy of PLEFTLowerArm.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 87527be42f119524e9a8907dc1f9faac
+    layerID: 263933505
+    mosaicPosition: {x: 1607, y: 306}
+  - name: PLEFTLowerArm.png
+    spriteName: PLEFTLowerArm.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e626020f9ac6dd409809f127d883f32
+    layerID: -2091165639
+    mosaicPosition: {x: 1607, y: 375}
+  - name: Layer 2
+    spriteName: Layer 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5190d2381a59d184babbd24dcb09fdf0
+    layerID: -7500619
+    mosaicPosition: {x: 1664, y: 88}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e506b3f04f003224abec502e7b03243b
+    layerID: -7500616
+    mosaicPosition: {x: 1664, y: 96}
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc1b188d58a7a3149a366ce80a405448
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Player
+  prefabAssetName: Player_GO
